@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9a96d1e4-3132-4e4f-8fc9-315f29286fe3</dc:identifier>
+        <dc:title>Introduction to Artificial Intelligence for Security Professionals</dc:title>
+        <dc:creator opf:file-as="Data Team, Cylance" opf:role="aut">Cylance Data Team</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-10-03T05:00:00+00:00</dc:date>
+        <dc:publisher>The Cylance Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780998016924</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07654CFFQ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Cylance Data Team&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-10T07:27:28.403101+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to Artificial Intelligence for Security Professionals" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

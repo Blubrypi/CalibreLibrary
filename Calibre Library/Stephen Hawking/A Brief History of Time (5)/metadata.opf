@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5ef2249-e4f2-40a3-aeca-eb41b4eaab67</dc:identifier>
+        <dc:title>A Brief History of Time</dc:title>
+        <dc:creator opf:file-as="Hawking, Stephen" opf:role="aut">Stephen Hawking</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-04T05:00:00+00:00</dc:date>
+        <dc:publisher>Random House, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780553896923</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B004WY3D0O</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Stephen Hawking&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-10T07:27:25.825094+00:00" name="calibre:timestamp"/>
+        <meta content="Brief History of Time, A" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

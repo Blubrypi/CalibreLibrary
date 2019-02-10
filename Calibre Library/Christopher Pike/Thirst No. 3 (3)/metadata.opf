@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e5981297-0ae3-4df8-a844-e6094b6a0d66</dc:identifier>
+        <dc:title>Thirst No. 3</dc:title>
+        <dc:creator opf:file-as="Pike, Christopher" opf:role="aut">Christopher Pike</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-10-05T05:00:00+00:00</dc:date>
+        <dc:publisher>Simon &amp; Schuster, Inc.</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003UV8TB8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Christopher Pike&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-10T07:27:23.135937+00:00" name="calibre:timestamp"/>
+        <meta content="Thirst No. 3" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ded747a3-ecf2-4b05-86f9-b786134a3677</dc:identifier>
+        <dc:title>The Silver Wolf (Legends of the Wolves Book 1)</dc:title>
+        <dc:creator opf:file-as="Borchardt, Alice" opf:role="aut">Alice Borchardt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.35.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-03-05T06:00:00+00:00</dc:date>
+        <dc:publisher>Random House Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345455529</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B000FBJEGA</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Alice Borchardt&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-02-10T07:27:24.491640+00:00" name="calibre:timestamp"/>
+        <meta content="Silver Wolf (Legends of the Wolves Book 1), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
