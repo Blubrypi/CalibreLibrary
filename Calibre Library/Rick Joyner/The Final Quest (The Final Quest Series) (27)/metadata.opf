@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f688de03-b967-42b2-827a-de1d3c0216b4</dc:identifier>
+        <dc:title>The Final Quest (The Final Quest Series)</dc:title>
+        <dc:creator opf:file-as="Joyner, Rick" opf:role="aut">Rick Joyner</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>1996-03-01T06:00:00+00:00</dc:date>
+        <dc:publisher>MorningStar Publications</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781607083306</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B003X4M6IE</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Spiritual &amp; Religion</dc:subject>
+        <meta content="{&quot;Rick Joyner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-03T22:11:37.342254+00:00" name="calibre:timestamp"/>
+        <meta content="Final Quest (The Final Quest Series), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

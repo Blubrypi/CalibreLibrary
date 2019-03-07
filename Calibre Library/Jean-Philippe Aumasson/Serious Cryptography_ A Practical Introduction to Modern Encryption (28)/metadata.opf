@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">54dd75e9-672b-4e85-a62e-dd4f84aa16ca</dc:identifier>
+        <dc:title>Serious Cryptography: A Practical Introduction to Modern Encryption</dc:title>
+        <dc:creator opf:file-as="Aumasson, Jean-Philippe" opf:role="aut">Jean-Philippe Aumasson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-21T06:00:00+00:00</dc:date>
+        <dc:publisher>No Starch Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781593278823</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0722MTGQV</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Jean-Philippe Aumasson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-01-03T22:16:14.111466+00:00" name="calibre:timestamp"/>
+        <meta content="Serious Cryptography: A Practical Introduction to Modern Encryption" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

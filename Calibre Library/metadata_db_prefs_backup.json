@@ -306,7 +306,7 @@
       "datatype": "text", 
       "table": null, 
       "display": {}, 
-      "name": "Series sort"
+      "name": "Series Sort"
     }, 
     "comments": {
       "is_category": false, 
@@ -368,7 +368,7 @@
       "datatype": "text", 
       "table": null, 
       "display": {}, 
-      "name": "Title sort"
+      "name": "Title Sort"
     }, 
     "tags": {
       "is_category": true, 
@@ -530,7 +530,7 @@
       "datatype": "text", 
       "table": null, 
       "display": {}, 
-      "name": "Author sort"
+      "name": "Author Sort"
     }, 
     "cover": {
       "is_category": false, 
@@ -566,7 +566,7 @@
       "datatype": "text", 
       "table": null, 
       "display": {}, 
-      "name": "On device"
+      "name": "On Device"
     }, 
     "formats": {
       "is_category": true, 
@@ -714,17 +714,17 @@
       "size": "center"
     }, 
     "column_sizes": {
-      "publisher": 98, 
-      "pubdate": 100, 
-      "rating": 76, 
-      "series": 74, 
-      "tags": 65, 
+      "publisher": 92, 
+      "pubdate": 94, 
+      "rating": 75, 
+      "series": 71, 
+      "tags": 231, 
       "languages": 0, 
       "last_modified": 0, 
-      "timestamp": 88, 
-      "authors": 109, 
-      "title": 124, 
-      "size": 97
+      "timestamp": 75, 
+      "authors": 92, 
+      "title": 598, 
+      "size": 89
     }, 
     "languages_injected": true, 
     "column_positions": {

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68c27987-079d-4702-a5ac-63aebe11bcc0</dc:identifier>
+        <dc:title>Hacking Wireless Networks for Dummies</dc:title>
+        <dc:creator opf:file-as="Beaver, Kevin.; Davis, Peter T." opf:role="aut">Beaver, Kevin.; Davis, Peter T.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-10-22T17:03:50+00:00</dc:date>
+        <dc:description>Team DDU</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>Team DDU</dc:subject>
+        <meta content="{&quot;Beaver, Kevin.; Davis, Peter T.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T14:36:57.566211+00:00" name="calibre:timestamp"/>
+        <meta content="Hacking Wireless Networks for Dummies" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

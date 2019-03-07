@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c181a6cb-27a0-4183-a64e-864e41ddbc4f</dc:identifier>
+        <dc:title>Advanced SQL Injection</dc:title>
+        <dc:creator opf:file-as="McCray, Joseph" opf:role="aut">Joseph McCray</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.55.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>SQL Injection</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>SQL Injection</dc:subject>
+        <dc:subject>Defcon</dc:subject>
+        <dc:subject>DEF CON</dc:subject>
+        <dc:subject>Hacker</dc:subject>
+        <dc:subject>Security Conference</dc:subject>
+        <dc:subject>Presentations</dc:subject>
+        <dc:subject>Technology</dc:subject>
+        <dc:subject>Phreaking</dc:subject>
+        <dc:subject>Lockpicking</dc:subject>
+        <dc:subject>hackers</dc:subject>
+        <dc:subject>infosec</dc:subject>
+        <dc:subject>Hardware Hacking</dc:subject>
+        <dc:subject>Exploit</dc:subject>
+        <dc:subject>Defcon 17</dc:subject>
+        <dc:subject>Advanced SQL Injection</dc:subject>
+        <dc:subject>Joseph McCray</dc:subject>
+        <meta content="{&quot;Joseph McCray&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-03-07T14:25:53.726006+00:00" name="calibre:timestamp"/>
+        <meta content="Advanced SQL Injection" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
